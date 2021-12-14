@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\EVE3\\Task11\\Task11.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Eve3\\EVE3-20211208\\Task11\\Task11.csproj",
       "projectName": "Task11",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\EVE3\\Task11\\Task11.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Eve3\\EVE3-20211208\\Task11\\Task11.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\EVE3\\Task11\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Eve3\\EVE3-20211208\\Task11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

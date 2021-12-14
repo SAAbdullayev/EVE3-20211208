@@ -20,7 +20,35 @@ namespace Task12
                 d = c * 10000 + b; //36952548
 
 
+                int reverse = 0;
+                
+                while(d>0) //36952548
+                {
+                    int reqem = d % 10;   
+                    d /= 10;
+                    reverse = reverse * 10 + reqem; //84525963
+                }
 
+                int counter = 1;
+                d = reverse;
+                reverse = 0;
+                while(d>0)      //84525963
+                {
+                    int reqem = d % 10;
+                    d /= 10;
+                    
+                    if(counter%2==0)
+                    {
+                        reverse = reverse * 10 + 1;
+                    }
+                    else
+                    {
+                        reverse = reverse * 10 + reqem;
+                    }
+                    counter++;
+                }
+
+                Console.WriteLine(reverse);
             }
             else
             {

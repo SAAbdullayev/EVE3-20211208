@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\EVE3\\Task13\\Task13.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Eve3\\EVE3-20211208\\Task13\\Task13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\EVE3\\Task13\\Task13.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Eve3\\EVE3-20211208\\Task13\\Task13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\EVE3\\Task13\\Task13.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Eve3\\EVE3-20211208\\Task13\\Task13.csproj",
         "projectName": "Task13",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\EVE3\\Task13\\Task13.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Eve3\\EVE3-20211208\\Task13\\Task13.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\EVE3\\Task13\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Eve3\\EVE3-20211208\\Task13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
